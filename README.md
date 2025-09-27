@@ -14,7 +14,6 @@ Kontak → Informasi untuk menghubungi saya.
 
 ## 🌐 Link Website
 Website ini dapat diakses di:
-👉 https://username.github.io/portfolio
-(Ganti username dengan username GitHub kamu)
+👉 https://github.com/dhimei-tech/Portofolio
 
 #### 💡 Dibuat dengan HTML & CSS sederhana. Hosting menggunakan GitHub Pages.
